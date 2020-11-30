@@ -1,0 +1,10 @@
+Question:1 Header size of TCP is 20 Bytes? True or False?
+Question:2 Header size of UDP is 8 Bytes? True or False?
+Question:3 Retransmission of lost packets is possible in UDP but not in TCP? True or False?
+Question:4 TCP does not support BroadCasting while UDP does? True or False?
+Question:5 from sockets import * library can be used for socket programming in Python? True or False?
+Question:6 If you didn't decode the message sent by server to client or client to server, This will cause an error? True or false?
+Question:7 Is it necessary to close client connection client.close() on both server and client? True or False?
+Question:8 SOCK_STREAM is used for TCP and SOCK_DGRAM is used for UDP? True or Flase?
+Question:9 UDP is Connection oriented protocol while TCP is connectionless protocol? True or False?
+Question:10 UDP is more faster than UDP? True or False?
